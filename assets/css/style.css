@@ -1,0 +1,116 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.card-title {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1em;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 250px;
+    object-fit: cover; 
+}
+
+
+.container {
+    flex: 1;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 1.2em;
+    }
+
+    .card-title {
+        font-size: 1.1em;
+    }
+
+    .card-text {
+        font-size: 0.9em;
+    }
+}
+
+.carousel-item {
+    height: 300px;
+    
+}
+
+.carousel-item img {
+    object-fit: cover;
+    
+    height: 100%;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+.product-img {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    object-fit: cover;
+}
+
+
+.logo {
+    max-height: 40px;
+    width: auto;
+}
+
+
+.toast {
+    border-radius: 10px;
+    background-color: #f8f9fa;
+}
+
+
+.nav-link {
+    position: relative;
+}
+
+.nav-link span {
+    background-color: red;
+    border-radius: 50%;
+    color: white;
+    padding: 2px 6px;
+    font-size: 12px;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+}
+
+
+
+
+/* Features Icons */
+.fas {
+    color: #007bff;
+    margin-bottom: 10px;
+}
