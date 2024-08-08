@@ -71,6 +71,16 @@ projeto/
 - **includes/**: Scripts comuns, como conexão ao banco de dados e templates de cabeçalho e rodapé.
 - **templates/**: Templates HTML reutilizáveis para formulários e áreas restritas.
 
+## Protótipos de tela
+![img1](https://github.com/user-attachments/assets/a08e60ab-a153-4b1a-8d02-f5de240a6b09)
+![img2](https://github.com/user-attachments/assets/c129e12a-c99d-4e1d-93bd-612981a0b456)
+![img3](https://github.com/user-attachments/assets/8b122e0b-025a-491d-8403-b90c38cd605a)
+![img4](https://github.com/user-attachments/assets/362825aa-c9c0-4d6d-a777-0b15f40b4136)
+
+
+
+
+
 ## Configuração do Projeto
 
 ### Requisitos
